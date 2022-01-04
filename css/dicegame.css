@@ -1,0 +1,24 @@
+h1
+{
+    font-size: 5rem;
+}
+h2
+{
+    font-size: 5rem;
+}
+body
+{
+    background-color: rgb(97, 97, 160);
+     color:lawngreen;
+     text-align: center;
+     font-family: 'Lobster', cursive;
+}
+.container
+{
+    padding:6% 15%;
+
+}
+.copy
+{
+    color: black;
+}
